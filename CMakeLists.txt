@@ -20,9 +20,14 @@ find_package(catkin REQUIRED COMPONENTS
 
 add_message_files(
   FILES
+  fuzzy_lcs.msg
   fuzzy.msg
   defuzzyfied.msg
+  defuzzy_lcs.msg
   vehicle_smc_gains.msg
+  fuzzy_vel_modif.msg
+  defuzzy_vel_modif.msg
+  dist_to_fuzzy.msg
 )
 
 

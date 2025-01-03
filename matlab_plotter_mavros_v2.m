@@ -1,4 +1,4 @@
-Controllers = ["SMC_PID_8", "SMC_PID_8_WW", "PID", "PID_WW"];
+Controllers = ["teste"];
 %Controllers = ["SMC_PID_8_WW", "PID_WW"];
 %Controllers = ["SMC_PID_8","PID"];
 graph_folder = "graps";

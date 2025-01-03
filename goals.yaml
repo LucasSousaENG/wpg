@@ -1,0 +1,61 @@
+- position:
+    x: 0.5
+    y: 0.0
+    z: 0.0
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: -1.5708
+
+- position:
+    x: 0.3148
+    y: -4.821
+    z: 0.00
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.999
+    w: 0.0154
+
+- position:
+    x: -3.51
+    y: -5.242
+    z: 0.0
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.708
+    w: 0.705
+
+- position:
+    x: -3.2
+    y: 3.1
+    z: 0.0
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.699
+    w: 0.7142
+
+- position:
+    x: 0.7
+    y: 3.1
+    z: 0.0
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.699
+    w: -1.5708
+
+- position:
+    x: 0.5
+    y: 1.0
+    z: 0.0
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.5
+    w: -0.7
+
+

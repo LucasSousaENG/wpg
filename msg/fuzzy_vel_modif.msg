@@ -1,0 +1,4 @@
+std_msgs/Header header
+float64 distance_to_obstacle
+float64 distance_to_objective
+float64 velocity

@@ -1,0 +1,2 @@
+set(wpg_MESSAGE_FILES "/home/lucas/catkin_ws/src/wpg/msg/fuzzy_lcs.msg;/home/lucas/catkin_ws/src/wpg/msg/fuzzy.msg;/home/lucas/catkin_ws/src/wpg/msg/defuzzyfied.msg;/home/lucas/catkin_ws/src/wpg/msg/defuzzy_lcs.msg;/home/lucas/catkin_ws/src/wpg/msg/vehicle_smc_gains.msg")
+set(wpg_SERVICE_FILES "")
